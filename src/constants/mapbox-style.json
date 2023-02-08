@@ -1,0 +1,14 @@
+{
+    "version": 8,
+    "name": "Basic",
+    "metadata": {
+        "mapbox:autocomposite": true
+    },
+    "sources" : {
+        "mapbox" : {
+            "url": "mapbox://styles/mapbox/light-v9",
+            "type": "vector"
+        }
+    },
+    "sprite": "../polygons/sprites/"
+}
