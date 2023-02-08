@@ -2,7 +2,7 @@
 
 ## Usage
 
-To run this example, you need a [Mapbox token](http://visgl.github.io/react-map-gl/docs/get-started/mapbox-tokens). You can either set it as `MAPBOX_TOKEN` in `src/app.js`, or set a `MapboxAccessToken` environment variable in the command line.
+Currently released version on npm: `npm install visualmapper` => installs version 1.2.0
 
 ```bash
 npm install
